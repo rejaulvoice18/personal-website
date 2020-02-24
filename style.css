@@ -11,7 +11,7 @@ p{
     font-size:14px;
 }
 section{
-    height: 400px;
+    height: 500px;
     padding-bottom: 150px;
 }
 .intro-area{
@@ -72,15 +72,14 @@ section{
 .twenty-eight-percent{
     width:28%;
     float:left;
-    margin-left:5%;
-    padding:10px 0;
+    margin-left:3%;
 }
 .twenty-eight-percent img{
     width:100%;
 }
 .latest-work-title{
     text-align: center;
-    padding:20px 0;
+    padding:30px 0;
 }
 
 /*====Client Feedback Area====*/
@@ -112,8 +111,14 @@ section{
     font-weight:bold;
 }
 /*=======Footer Area=====*/
+footer{
+    background-color:orange;
+    margin:0;
+    padding:20px 0;
+}
 footer p{
     text-align:center;
+    color:white;
 }
 /*======All Hover effect======*/
 .title-name-color:hover{
@@ -135,7 +140,7 @@ footer p{
     font-weight:bold;
 }
 .twenty-eight-percent:hover{
-    width:29%;
+    width:31%;
 }
 .link-button3:hover{
     text-decoration:none;
