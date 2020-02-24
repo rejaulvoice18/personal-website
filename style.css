@@ -94,14 +94,8 @@ section{
     text-align:center;
 }
 .client-title{
-    margin-left:30%;
     font-size:40px;
-    color:white;
     font-weight:700;
-    background-color:orange;
-    width:450px;
-    border-radius:10px;
-    margin-bottom:50px;
 }
 .ceo-name{
     font-size:16px;
